@@ -2,7 +2,7 @@
 
 ## The land where HTML deamons are conjured, instantiated and summoned into Three Domains
 
-Valhalla began as an attempt to use Teact to create a React based application without using pointy brackets or back-ticks.  Rude things that bite the syntax and uglify the landscape.
+Valhalla began as an attempt to use Teact to create a React based application without using pointy brackets or back-ticks: syntactic strichnine!  Rude things that bite the syntax and uglify the landscape.
 
 However, React's interfaces have not been stable over the last few years, and
 Teact's interfaces needed updating.  And the advantages of Mithril over React (patent issues included) pointed to a better direction for evolution.
